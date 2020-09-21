@@ -1,1 +1,1 @@
-import './main-concepts/types'
+import './main-concepts/data-types'
